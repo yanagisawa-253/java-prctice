@@ -1,5 +1,8 @@
-import java.sql.Date
+package 参考書での学習;
+
+import java.sql.Date;
 import java.util.Objects;
+
 
 public class Book {
 
