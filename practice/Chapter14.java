@@ -7,8 +7,7 @@ public class Chapter14 {
 
     public static void main(String[] args) {
         List<Character> party = new ArrayList<Character>();
-        party.add(new Soldier());
-        party.add(new Playboy());
+        // プログラムを作成
 
         Chapter14.partyAttack(party);
     }
