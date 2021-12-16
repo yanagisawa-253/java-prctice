@@ -7,5 +7,8 @@ public class systempuropertymain {
 		String author = System.getProperty("rpg.author");
 		System.out.println("RPG: スッキリ魔王討伐 ver" + ver);
 		System.out.println("Developed by" + author);
+		
+		final String BR = System.getProperty("line.separator");
+		 System.out.println("本日は" + BR + "晴天なり");
 	}
 }
