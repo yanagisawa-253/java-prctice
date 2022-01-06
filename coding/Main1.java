@@ -24,3 +24,5 @@ public class Main1 {
         }
 	}
 }
+
+// FizzBuzz問題　３＆５でFizzBuzz ,３でFizz,５でBuzz
